@@ -1,0 +1,11 @@
+{
+  "name": "API-Rest-HP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KelvinJavorski/API-Rest-HP.git",
+  "author": "Kelvin <kelvin.javorskisoares@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
